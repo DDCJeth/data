@@ -1,2 +1,2 @@
 # data
-containt data for dash project
+contains data for dash project
